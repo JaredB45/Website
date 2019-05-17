@@ -1,0 +1,27 @@
+
+body
+  background-color: lightblue;
+<header>
+.title {
+  font-size: 48px;
+  text-decoration: underline;
+}
+</header>
+<h1 style="color:blue;">This is a Blue Heading</h1>
+  color: white;
+  text-align: center;
+
+
+p
+  font-family: verdana;
+  font-size: 20px;
+  text-decoration: underline;
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+.container {
+   max-width: 1000px;
+}
